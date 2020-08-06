@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ya39oubi&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/Ya39oubi98
 [linkedin]: https://www.linkedin.com/in/yaakoubi-hamza-9ab4b816b/
