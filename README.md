@@ -10,7 +10,7 @@
  
 - ⚡ Fun fact: I love to play video games in my free time 🤣
 
-### Connect with me:
+
 
 
 <br />
