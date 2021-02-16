@@ -33,15 +33,7 @@
 <br />
 <br />
 
-### Languages and Tools i'm currently learning 🤣 :
 
-<br />
-<img align="left" alt="Node.js" width="26px" src="https://vuejs.org/images/logo.png" />
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
-<br />
 
 
 
