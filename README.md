@@ -3,7 +3,7 @@
 ## I'm a Junior Web Developer !
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
 
  *  Become FullStack JS Dev
  *  Complete at least 1 round of #100DaysOfCode Challange
